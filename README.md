@@ -16,7 +16,7 @@
 **Connect contributors across Southeast Asia with Web3 projects that need real work done —**  
 **trustlessly, instantly, on-chain.**
 
-[Website](https://nexumprotocol.xyz) · [Docs](docs/) · [Twitter](https://twitter.com/nexum_sol)
+[Website](https://nexumprotocol.xyz) · [Docs](docs/) · [Twitter](https://twitter.com/nexum_p)
 
 </div>
 
@@ -172,13 +172,13 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for full guidelines.
 | *Open* | Solana Smart Contract Developer |
 | *Open* | UI/UX Engineer |
 
-> Hiring from **Superteam SEA** talent pool. Interested? Open an issue or DM [@nexum_sol](https://twitter.com/nexum_sol).
+> Hiring from **Superteam SEA** talent pool. Interested? Open an issue or DM [@nexum_sol](https://twitter.com/nexum_p).
 
 ---
 
 ## Links
 
-🌐 [nexumprotocol.xyz](https://nexumprotocol.xyz) · 🐦 [@nexum_sol](https://twitter.com/nexum_sol) · 📧 hello@nexumprotocol.xyz
+🌐 [nexumprotocol.xyz](https://nexumprotocol.xyz) · 🐦 [@nexum_p](https://twitter.com/nexum_p) · 📧 hello@nexumprotocol.xyz
 
 ---
 
