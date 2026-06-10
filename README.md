@@ -178,7 +178,7 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for full guidelines.
 
 ## Links
 
-🌐 [nexumprotocol](https://nexum-protocol.netlify.app) · 🐦 [@nexum_p](https://twitter.com/nexum_p) · 📧 hello@nexumprotocol.xyz
+🌐 [nexumprotocol](https://nexum-protocol.netlify.app) · 🐦 [@nexum_p](https://twitter.com/nexum_p) · 📧 protocolnexum@gmail.com
 
 ---
 
