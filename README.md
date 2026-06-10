@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/logo.png" alt="NEXUM Protocol" width="320" />
+<img src="logo.png" alt="NEXUM Protocol" width="320" />
 
 <br/>
 
