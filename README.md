@@ -172,7 +172,7 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for full guidelines.
 | *Open* | Solana Smart Contract Developer |
 | *Open* | UI/UX Engineer |
 
-> Hiring from **Superteam SEA** talent pool. Interested? Open an issue or DM [@nexum_sol](https://twitter.com/nexum_p).
+> Hiring from **Superteam SEA** talent pool. Interested? Open an issue or DM [@nexum_p](https://twitter.com/nexum_p).
 
 ---
 
