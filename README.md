@@ -16,7 +16,7 @@
 **Connect contributors across Southeast Asia with Web3 projects that need real work done —**  
 **trustlessly, instantly, on-chain.**
 
-[Website](https://nexumprotocol.xyz) · [Docs](docs/) · [Twitter](https://twitter.com/nexum_p)
+[Website](https://nexum-protocol.netlify.app) · [Docs](docs/) · [Twitter](https://twitter.com/nexum_p)
 
 </div>
 
@@ -178,7 +178,7 @@ See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for full guidelines.
 
 ## Links
 
-🌐 [nexumprotocol.xyz](https://nexumprotocol.xyz) · 🐦 [@nexum_p](https://twitter.com/nexum_p) · 📧 hello@nexumprotocol.xyz
+🌐 [nexumprotocol](https://nexum-protocol.netlify.app) · 🐦 [@nexum_p](https://twitter.com/nexum_p) · 📧 hello@nexumprotocol.xyz
 
 ---
 
